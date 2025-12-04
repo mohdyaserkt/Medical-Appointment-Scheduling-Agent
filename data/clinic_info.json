@@ -1,0 +1,40 @@
+{
+  "clinic_name": "HealthFirst Medical Center",
+  "address": "123 Medical Drive, Health City, HC 12345",
+  "phone": "(555) 123-4567",
+  "hours": {
+    "monday": "9:00 AM - 5:00 PM",
+    "tuesday": "9:00 AM - 5:00 PM",
+    "wednesday": "9:00 AM - 5:00 PM",
+    "thursday": "9:00 AM - 5:00 PM",
+    "friday": "9:00 AM - 5:00 PM",
+    "saturday": "9:00 AM - 1:00 PM",
+    "sunday": "Closed"
+  },
+  "doctors": [
+    {
+      "name": "Dr. Sarah Johnson",
+      "specialty": "General Practice",
+      "available_for": ["General Consultation", "Follow-up", "Physical Exam"]
+    },
+    {
+      "name": "Dr. Michael Chen",
+      "specialty": "Cardiology",
+      "available_for": ["Specialist Consultation"]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should I bring to my appointment?",
+      "answer": "Please bring your ID, insurance card, list of current medications, and any relevant medical records."
+    },
+    {
+      "question": "How early should I arrive?",
+      "answer": "Please arrive 15 minutes before your scheduled appointment time."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "Please cancel at least 24 hours in advance to avoid a cancellation fee."
+    }
+  ]
+}
